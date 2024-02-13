@@ -1,4 +1,4 @@
-import { Button, Text, View } from "react-native";
+import {View } from "react-native";
 
 const TotalSales = () => {
   return (

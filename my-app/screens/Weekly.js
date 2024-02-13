@@ -14,7 +14,7 @@ const Weekly = () => {
                   <View className="">
                     <Image
                       className="bg-contain w-[32px] h-[32px] mt-[-5px]"
-                      source={require("../Images/a.png")}
+                      source={require("../Images/revenue.png")}
                     />
                   </View>
 
@@ -44,7 +44,7 @@ const Weekly = () => {
                   <View className="">
                     <Image
                       className="bg-contain w-[30px] h-[30px] mt-[-5px]"
-                      source={require("../Images/b.png")}
+                      source={require("../Images/sales.png")}
                     />
                   </View>
 
@@ -74,7 +74,7 @@ const Weekly = () => {
                   <View className="">
                     <Image
                       className="bg-contain w-[32px] h-[32px] mt-[-5px]"
-                      source={require("../Images/c.png")}
+                      source={require("../Images/expenses.png")}
                     />
                   </View>
 
@@ -104,7 +104,7 @@ const Weekly = () => {
                   <View className="">
                     <Image
                       className="bg-contain w-[30px] h-[30px] mt-[-5px]"
-                      source={require("../Images/d.png")}
+                      source={require("../Images/listings.png")}
                     />
                   </View>
 
